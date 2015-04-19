@@ -1,0 +1,5 @@
+This does not require code. Simply, if the number is to be divisible by all the numbers from 1 to 20, it needs those as factors.
+
+Thus the number must be 1 * 2 * 3 * 2 * 5 * 7 * 2 * 3 * 11 * 13 * 2 * 17 * 19 = 232792560
+
+Might add code later.
