@@ -25,5 +25,5 @@ public class FindPrime {
 }
 
 /*
-*Console output gives a list of primes including "Prime: 10001 = 104743"
+*Console output gives a list of primes including "Prime#: 10001 is 104743"
 */
